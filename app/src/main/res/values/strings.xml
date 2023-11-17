@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Contacts</string>
+    <string name="name_contact">%s %s</string>
+    <string name="add_new_contact">Add new contact</string>
+    <string name="enter_name">Enter your name</string>
+    <string name="enter_phone_number">Enter your phone number</string>
+    <string name="enter_lastname">Enter your lastname</string>
+    <string name="add_contact">Add contact</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
 </resources>
